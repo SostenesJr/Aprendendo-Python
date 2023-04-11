@@ -1,6 +1,6 @@
 # Operadores lógicos
-# e (e) ou (ou) não (não)
-# e - Todas as condições precisam ser
+# and (e) or (ou) not (não)
+# and - Todas as condições precisam ser
 # verdadeiras.
 # Se qualquer valor for considerado falso,
 # a expressão inteira será avaliada naquele valor

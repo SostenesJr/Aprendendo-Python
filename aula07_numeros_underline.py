@@ -15,4 +15,6 @@ nome = 'Luiz'
 idade = 30
 maior_de_idade = idade >= 18
 print('nome: ', nome, 'Idade: ', idade)
+if maior_de_idade == True:
+    maior_de_idade = 'verdadeiro'
 print('É maior?', maior_de_idade)

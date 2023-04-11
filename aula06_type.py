@@ -1,5 +1,5 @@
 # conversão de tipos, coerção
-# type convertion, typrcasting, coercion
+# type convertion, typecasting, coercion
 # é o ato de converter um tipo em outro
 # Tipos imutáveis e primitivos
 # str, int, float, bool
