@@ -1,5 +1,5 @@
 """ Calculadora com enquanto """
-# enquanto  verdadeiro :
+# enquato  verdadeiro :
 #     print ( 'nummmmm' )
 #     #########
 #     sair  =  input ( 'Quer sair? [s]im: ' ). inferior (). começa com ( 's' )

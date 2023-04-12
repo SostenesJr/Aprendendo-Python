@@ -1,7 +1,7 @@
 """
-Flag (bandeira) - Marcar um ocal
+Flag (bandeira) - Marcar um local
 None -  não a valor
-is e is not = é ou não é (tpo, valor, identidade)
+is e is not = é ou não é (tipo, valor, identidade)
 id = identidade
 """
 

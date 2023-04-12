@@ -1,6 +1,6 @@
 """
 Repetições
-enquanto (enquanto)
+while (enquanto)
 Executar uma ação enquanto uma condição para verdadeira
 Loop infinito -> Quando um código não tem fim
 """
